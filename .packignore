@@ -18,5 +18,6 @@
 .minecraft/texturepacks
 .minecraft/usercache.json
 .minecraft/usernamecache.json
+.minecraft/XaeroWorldMap/
 natives
 
