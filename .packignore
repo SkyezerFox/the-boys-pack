@@ -1,5 +1,6 @@
 .minecraft/.mixin.out
 .minecraft/.vote2020_marker
+.minecraft/XaeroWorldMap/
 .minecraft/crash-reports
 .minecraft/icon.png
 .minecraft/logs
@@ -18,6 +19,4 @@
 .minecraft/texturepacks
 .minecraft/usercache.json
 .minecraft/usernamecache.json
-.minecraft/XaeroWorldMap/
 natives
-
